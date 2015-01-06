@@ -1,2 +1,6 @@
 sdf - this is feature 3
+
 this is more text in master
+
+some more text for feature 3
+
