@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 adding text
+=======
+adding more text
+adding feature 1.1
+>>>>>>> feature1
