@@ -1,1 +1,2 @@
-sdf - this is feature 3`
+sdf - this is feature 3
+some more text for feature 3
