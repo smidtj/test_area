@@ -1,1 +1,2 @@
-adding more text  
+adding more text
+adding feature 1
