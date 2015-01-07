@@ -4,3 +4,4 @@ this is more text in master
 
 some more text for feature 3
 
+adding feature X
